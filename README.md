@@ -18,6 +18,9 @@
 Generating Trained Model:
 <p>To generate the trained model, you need to run the faces_train.py file. This file reads a dataset of face images, detects faces using Haar Cascade classifier, and trains the LBPH Face Recognizer. The trained model is then saved to a file named trained.xml.
 
+<h1>Dataset:</h1>
+<a href="https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset?resource=download">Dataset Download</a>
+  
 <h1>Usage:</h1>
 <ul>
 <li>Clone the repository using the command git clone <repository_url></li>
