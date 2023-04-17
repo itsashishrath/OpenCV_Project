@@ -2,7 +2,6 @@
 <p>This repository contains three projects related to face detection and recognition. The projects are:</p>
 
 <ul>
-<li> Detection in Video</li>
 <li>Face Recognition in Video</li>
 <li>Face Recognition in Images</li>
 <li>Face Detection in Video:</li>
